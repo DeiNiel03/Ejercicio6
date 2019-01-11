@@ -4,6 +4,9 @@
 	<classpathentry kind="src" path="Ejercicio6/src/main/java"/>
 	<classpathentry kind="src" path="Ejercicio6/src/test/java"/>
 	<classpathentry kind="lib" path="Ejercicio6/gradle/wrapper/gradle-wrapper.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+=======
+>>>>>>> e062d59dfa762f291f57b24c6c75df2b47e423ed
 	<classpathentry kind="output" path="Ejercicio6/bin"/>
 </classpath>
